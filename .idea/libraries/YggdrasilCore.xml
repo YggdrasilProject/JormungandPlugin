@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="YggdrasilCore">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../YggdrasilCore/YggdrasilCore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../YggdrasilCore/YggdrasilCore.jar!/" />
+    </SOURCES>
+  </library>
+</component>
