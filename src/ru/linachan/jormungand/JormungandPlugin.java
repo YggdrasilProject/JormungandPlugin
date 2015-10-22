@@ -10,6 +10,11 @@ public class JormungandPlugin extends YggdrasilPlugin {
     private JormungandExecutor processExecutor;
 
     @Override
+    protected void setUpDependencies() {
+
+    }
+
+    @Override
     protected void onInit() {
         processExecutor = new JormungandExecutor();
         core.getServiceManager().startService(processExecutor);
